@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile!
   
-I'm **Baby Sharmila S**, a recent Electronics and Communication Engineering graduate from Anna University, Trichy. I'm passionate about **data analysis** and **visualization** and love to turning raw data into meaningful insights. I'm eager to learn, collaborate, and grow in the tech space while solving real-world problems with data-driven solutions.
+I'm **Baby Sharmila S**, a recent Electronics and Communication Engineering graduate from Anna University, Trichy. I'm passionate about **data analysis** and **visualization** and eager to learn, collaborate, and grow in the tech space while solving real-world problems with data-driven solutions.
 
 ---
 I enjoy working on projects that involve:  
