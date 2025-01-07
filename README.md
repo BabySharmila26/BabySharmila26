@@ -9,14 +9,14 @@ I enjoy working on projects that involve:
 
 ---
 
-## Skills  
+## Skills 💻   
 - **Programming**: Python, SQL  
-- **Visualization Tools**: Tableau, Power BI  
+- **Visualization Tools**: Tableau 📊, Power BI 📈
 - **Other Tools**: Microsoft Office  
 
 ---
 
-## Projects  
+## Projects 📁
 
 ### **1. Advanced Image Processing Techniques for Underwater Archaeology**  
 - Created a **Python-based tool** to enhance underwater archaeological images.  
